@@ -6,8 +6,8 @@
 
 #include "esp_camera.h"
 
-const char* ssid = "vivo Y73";
-const char* password =  "itsthesameasyours";
+const char* ssid = " ";
+const char* password =  " ";
 // Select camera model - find more camera models in camera_pins.h file here
 // https://github.com/espressif/arduino-esp32/blob/master/libraries/ESP32/examples/Camera/CameraWebServer/camera_pins.h
 
